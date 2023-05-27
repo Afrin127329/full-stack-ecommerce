@@ -82,6 +82,7 @@ const Login = () => {
           <button type="submit" className="btn btn-primary">
             LOGIN
           </button>
+          [Try as user: test@gmail.com pass: test (N.B: Admin credentials can be provided on demand)]
         </form>
       </div>
     </Layout>
