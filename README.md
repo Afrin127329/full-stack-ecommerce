@@ -1,4 +1,4 @@
-# Liverr (Fiverr Clone)
+# Ecommerce
 
 - User and Admin Registration: The ecommerce project includes user and admin registration functionality, allowing users and administrators to create their own accounts with unique credentials.
   _Admin Credentials can be provided on demand_
