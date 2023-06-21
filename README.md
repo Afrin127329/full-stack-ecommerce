@@ -1,4 +1,4 @@
-# Liverr (Fiverr Clone)
+# Ecommerce
 
 - User and Admin Registration: The ecommerce project includes user and admin registration functionality, allowing users and administrators to create their own accounts with unique credentials.
   _Admin Credentials can be provided on demand_
@@ -15,10 +15,14 @@
 
 #### Admin Dashboard Page:
 
+<p>
 <img src="/img/ad1.png" alt="Admin Dashboard" width="300" height="200">
 <img src="/img/ad2.png" alt="Admin Dashboard" width="300" height="200">
+ </p>
+ <p>
 <img src="/img/ad3.png" alt="Admin Dashboard" width="300" height="200">
 <img src="/img/ad4.png" alt="Admin Dashboard" width="300" height="200">
+</p>
 
 **This is an ongoing project, it will be tested with Jest, updation is coming soon.**
 
