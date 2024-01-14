@@ -93,7 +93,6 @@ At this time, I regret to inform you that contributions are not being accepted. 
 **Afrin Nahar**
 
 - Github: [@Afrin127329](https://github.com/Afrin127329)
-- LinkedIn: [Afrin Nahar](https://www.linkedin.com/in/afrin-nahar-b849ba1a9/)
 - Twitter: [@AfrinNahar10](https://twitter.com/AfrinNahar10)
 
 ### Show your support
