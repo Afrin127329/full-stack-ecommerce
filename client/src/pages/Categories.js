@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
-import useCategory from "../hooks/useCategory";
 import Layout from "../components/Layout/Layout";
+import useCategory from "../hooks/useCategory";
 const Categories = () => {
   const categories = useCategory();
   return (
